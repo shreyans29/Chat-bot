@@ -1,6 +1,12 @@
 
 The youtube link for the tutorials :https://www.youtube.com/c/thesemicolon
 
+Dependencies
+
+```shell
+python -m pip install -r requirements.txt
+```
+
 Deep Learning with Keras <br />
 
 1. [Chatbot Preprocessing](../master/chatbotPreprocessing.py) <br/>
